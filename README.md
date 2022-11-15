@@ -12,4 +12,5 @@
 - [ ] GitLab
 - [ ] Bitbucket
 
+Виконала
 ***Leshchenko Halyna***
